@@ -3,6 +3,14 @@
 
 #include <stdint.h>
 
+/*
+*   NAME          : ABHINAV WADHWA
+*   MIS           : 612505005
+*   BRANCH        : ELCTRICAL 
+*   PROJECT TITLE : ECC API USING HAMMING(7,4) ALGORITHM
+*   GITHUB LINK   : https://github.com/bleakweb/hamming-algorithm
+*/
+
 #ifdef __cplusplus
 extern "C" {
 #endif
